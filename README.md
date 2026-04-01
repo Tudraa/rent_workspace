@@ -56,7 +56,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Live Demo
 
-You can access a live demo of the Workspace Designer application here: [https://rent-workspace-mw2i0j1js-indra-mahendras-projects.vercel.app/](https://rent-workspace-mw2i0j1js-indra-mahendras-projects.vercel.app/)
+You can access a live demo of the Workspace Designer application here: [https://rent-workspace.vercel.app/](https://rent-workspace.vercel.app/)
 
 ## Building for Production
 
